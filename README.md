@@ -1,111 +1,60 @@
-# 🧑🏻‍💻 Cesar Aaron Herrera
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F00F6&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99" alt="Typing SVG">
+  </a>
+</div>
 
-**`Software Engineer`**
+<img align="center" alt="" src="./src/header-gif.gif">
 
-Meu nome é César Aaron Herrera, tenho 18 anos e moro em São Paulo. Concluí o Ensino Médio na Etec Arujá com o curso Técnico em Administração, o que me proporcionou uma base sólida em negócios e gestão. Atualmente, estou cursando Engenharia de Software na FIAP. Sou apaixonado por tecnologia e pela resolução de problemas, uma mentalidade fortalecida por experiências como um intercâmbio cultural solo nos Estados Unidos  e que aplico nos projetos práticos que desenvolvo na faculdade.
+#
 
-<p align="left">
-    <a href="https://github.com/CodeAaron-Dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CodeAaron-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/CodeAaron-Dev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CodeAaron-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href = "https://www.instagram.com/aaron.npv/">
-      <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/-@Aaron.npv-red?style=for-the-badge&logo=mention&logoColor=white"
-        />
-    </a>
-</p>
+<p align="center">Meu nome é César Aaron Herrera, tenho 18 anos e moro em São Paulo. Concluí o Ensino Médio na Etec Arujá com o curso Técnico em Administração, o que me proporcionou uma base sólida em negócios e gestão. Atualmente, estou cursando Engenharia de Software na FIAP. Sou apaixonado por tecnologia e pela resolução de problemas, uma mentalidade fortalecida por experiências como um intercâmbio cultural solo nos Estados Unidos e que aplico nos projetos práticos que desenvolvo na faculdade.
+  
+#
 
----
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
-### 🤖 Linguagens e Tecnologias
+<h3 align="left">Connect with me!</h3>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
----
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:cesaraaronherrera66@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/cesaraaronherrera/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/Aaron.npv/)
 
 
-### 📊 Estatísticas
+<h3 align="left">My Stack</h3>
 
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=CodeAaron-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Languages" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAaron-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="25" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="Python logo" />
+</div>
+
+#
+
+<div style="text-align: center;" align="center">
+  <h3>*📊 GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeAaron-Dev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeAaron-Dev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/CodeAaron-Dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeAaron-Dev/CodeAaron-Dev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodeAaron-Dev/CodeAaron-Dev/output/github-contribution-grid-snake.svg">
+</picture>
