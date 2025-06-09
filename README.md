@@ -1,26 +1,113 @@
-## Oiii eu sou o Cesar Aaron Herrera, Estudante de programação e tecnologia!
+# 🧑🏻‍💻 Cesar Aaron Herrera
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+**`Software Engineer`**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+Meu nome é César Aaron Herrera, tenho 18 anos e moro em São Paulo. Concluí o Ensino Médio na Etec Arujá com o curso Técnico em Administração, o que me proporcionou uma base sólida em negócios e gestão. Atualmente, estou cursando Engenharia de Software na FIAP. Sou apaixonado por tecnologia e pela resolução de problemas, uma mentalidade fortalecida por experiências como um intercâmbio cultural solo nos Estados Unidos  e que aplico nos projetos práticos que desenvolvo na faculdade.
+
+<p align="left">
+    <a href="https://github.com/CodeAaron-Dev?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/CodeAaron-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/CodeAaron-Dev?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/CodeAaron-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href = "https://www.instagram.com/aaron.npv/">
+      <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/-@Aaron.npv-red?style=for-the-badge&logo=mention&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=CodeAaron-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAaron-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
