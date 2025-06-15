@@ -12,7 +12,7 @@
   
 #
 
-<img align="right" alt="" height="190px" src="./src/programator.gif">
+<img align="right" alt="" height="190px" width="410px" src="./src/programatting.gif">
 
 <h3 align="left">Connect with me!</h3>
 
