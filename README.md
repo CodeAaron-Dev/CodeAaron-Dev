@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Meu nome é César Aaron Herrera, tenho 18 anos e moro em São Paulo. Concluí o Ensino Médio na Etec Arujá com o curso Técnico em Administração, o que me proporcionou uma base sólida em negócios e gestão. Atualmente, estou cursando Engenharia de Software na FIAP. Sou apaixonado por tecnologia e pela resolução de problemas, uma mentalidade fortalecida por experiências como um intercâmbio cultural solo nos Estados Unidos e que aplico nos projetos práticos que desenvolvo na faculdade.
+<p align="center">Meu nome é César Aaron Herrera, tenho 19 anos e moro em São Paulo. Concluí o Ensino Médio com curso Técnico em Administração pela Etec de Arujá, o que me proporcionou uma base sólida em negócios e gestão. Atualmente, curso Engenharia de Software na FIAP e atuo como estagiário de Infraestrutura de TI no Grupo ALUN, o maior ecossistema de tecnologia da América Latina. Tenho interesse em redes, segurança da informação, automação e desenvolvimento web. Também participei de um intercâmbio cultural solo nos Estados Unidos, o que reforçou minha autonomia, adaptabilidade e visão global.</p>
   
 #
 
