@@ -41,7 +41,7 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3>*📊 GitHub Stats *</h3>
+  <h3>📊 GitHub Stats </h3>
   <br>
   
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeAaron-Dev&show_icons=true&theme=merko&hide_border=true" alt="Aaron's github stats" /></a> 
