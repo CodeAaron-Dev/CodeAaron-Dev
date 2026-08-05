@@ -1,58 +1,39 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=218D21&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99" alt="Typing SVG">
-  </a>
-</div>
+# César Aaron Herrera
 
-<img align="center" alt="" src="./src/Header.gif">
+Estudante de Engenharia de Software na FIAP e estagiário de Infraestrutura de TI no Grupo ALUN.
+Antes da graduação, concluí o Ensino Médio com curso Técnico em Administração na Etec de Arujá.
 
-#
+Trabalho principalmente com **Java** e **Python**, e tenho interesse em redes, segurança da
+informação, automação e desenvolvimento web.
 
-<p align="center">Meu nome é César Aaron Herrera, tenho 19 anos e moro em São Paulo. Concluí o Ensino Médio com curso Técnico em Administração pela Etec de Arujá, o que me proporcionou uma base sólida em negócios e gestão. Atualmente, curso Engenharia de Software na FIAP e atuo como estagiário de Infraestrutura de TI no Grupo ALUN, o maior ecossistema de tecnologia da América Latina. Tenho interesse em redes, segurança da informação, automação e desenvolvimento web. Também participei de um intercâmbio cultural solo nos Estados Unidos, o que reforçou minha autonomia, adaptabilidade e visão global.</p>
-  
-#
+São Paulo, SP · 20 anos
 
-<img align="right" alt="" height="190px" width="410px" src="./src/programatting.gif">
+## Stack
 
-<h3 align="left">Connect with me!</h3>
+**Linguagens:** Java · Python · TypeScript · JavaScript · C/C++
+**Web:** React · Node.js · HTML · CSS
+**Ferramentas:** Git · Linux
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:cesaraaronherrera66@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/cesaraaronherrera/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/Aaron.npv/)
+## Projetos
 
+**Oryx** — Plataforma de inteligência conversacional para o time comercial da TOTVS, desenvolvida
+para o Challenge FIAP 2026. Backend em Java com serviços de processamento em Python.
+_Repositório privado._
 
-<h3 align="left">My Stack</h3>
+**Oryx Prototype** — Protótipo da interface do Oryx em TypeScript, usado para validar o fluxo de
+conversa antes da implementação final. _Repositório privado._
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="25" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="Python logo" />
-</div>
+**[Global Solution 2026](https://github.com/CodeAaron-Dev/global-solution-2026-fund-Dynamic-programming-)** —
+Monitoramento de riscos ambientais em Python, aplicando grafos, árvores binárias de busca (BST) e
+comparação entre força bruta e algoritmo guloso.
 
-#
+**[IoT DevBalance](https://github.com/CodeAaron-Dev/IoT-DevBalance)** — Dispositivo em C++ que
+calcula o tempo ideal entre trabalho e descanso e expõe as leituras em JSON para um dashboard.
 
-<div style="text-align: center;" align="center">
-  <h3>📊 GitHub Stats </h3>
-  <br>
-  
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeAaron-Dev&show_icons=true&theme=merko&hide_border=true" alt="Aaron's github stats" /></a> 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAaron-Dev&layout=compact&theme=merko&hide_border=true" /></a> 
-</div>
+**[ATM em Java (DDD)](https://github.com/CodeAaron-Dev/fiap-ddd-java-checkpoint2-atm)** — Simulação
+de caixa eletrônico modelada com Domain-Driven Design, feita para a disciplina de DDD-Java.
 
+## Contato
 
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeAaron-Dev/CodeAaron-Dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeAaron-Dev/CodeAaron-Dev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodeAaron-Dev/CodeAaron-Dev/output/github-contribution-grid-snake.svg">
-</picture>
+[![Email](https://img.shields.io/badge/Email-cesaraaronherrera66@gmail.com-informational?style=flat-square&logo=gmail&logoColor=white)](mailto:cesaraaronherrera66@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cesaraaronherrera-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesaraaronherrera/)
