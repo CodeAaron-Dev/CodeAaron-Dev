@@ -26,20 +26,15 @@ negativos e trechos ambíguos como ruído.
 
 Repositório privado.
 
-### [Global Solution 2026](https://github.com/CodeAaron-Dev/global-solution-2026-fund-Dynamic-programming-)
+### [Monitoramento de riscos ambientais](https://github.com/CodeAaron-Dev/monitoramento-riscos-ambientais)
 
-Monitoramento de riscos ambientais em Python. Modelagem em grafos e árvores binárias de busca, com
-comparação entre uma solução por força bruta e um algoritmo guloso.
+Modelagem de risco em Python sobre grafos e árvores binárias de busca, comparando uma solução por
+força bruta com um algoritmo guloso para priorizar as áreas de maior exposição.
 
 ### [IoT DevBalance](https://github.com/CodeAaron-Dev/IoT-DevBalance)
 
 Dispositivo em ESP32 e C++ que acompanha ciclos de trabalho e descanso, exibe o estado em display
 OLED e publica as métricas por MQTT para um dashboard.
-
-### [FIAP Bank — Terminal ATM](https://github.com/CodeAaron-Dev/fiap-ddd-java-checkpoint2-atm)
-
-Simulação de caixa eletrônico em Java modelada com Domain-Driven Design, separando domínio,
-aplicação, infraestrutura e apresentação.
 
 <br>
 
