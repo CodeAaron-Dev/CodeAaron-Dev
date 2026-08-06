@@ -1,6 +1,7 @@
 # César Aaron Herrera
 
-Engenharia de Software na FIAP. Infraestrutura de TI no Grupo ALUN. São Paulo, SP.
+Engenharia de Software na FIAP, onde também atuo como estagiário de Infraestrutura de TI.
+São Paulo, SP.
 
 Construo backend em Java e ferramental em Python. Meu foco está em dados e modelos preditivos —
 transformar texto e sinal bruto em algo que sustente uma decisão, e medir se a inferência realmente
